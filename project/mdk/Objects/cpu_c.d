@@ -1,0 +1,11 @@
+.\objects\cpu_c.o: ..\..\bsp\stm32f4\os\uCOS-III\V3.04.05\ports\ARM-Cortex-M4\RealView\cpu_c.c
+.\objects\cpu_c.o: ..\..\bsp\stm32f4\os\uCOS-III\V3.04.05\ports\ARM-Cortex-M4\RealView\cpu.h
+.\objects\cpu_c.o: ..\..\bsp\stm32f4\os\uCOS-III\V3.04.05\cpu_def.h
+.\objects\cpu_c.o: ..\..\bsp\stm32f4\os\uCOS-III\V3.04.05\cpu_cfg.h
+.\objects\cpu_c.o: ..\..\bsp\stm32f4\os\uCOS-III\V3.04.05\cpu_core.h
+.\objects\cpu_c.o: ..\..\bsp\stm32f4\os\uCOS-III\V3.04.05\lib_def.h
+.\objects\cpu_c.o: ..\..\bsp\stm32f4\os\uCOS-III\V3.04.05\lib_mem.h
+.\objects\cpu_c.o: ..\..\bsp\stm32f4\os\uCOS-III\V3.04.05\cpu_core.h
+.\objects\cpu_c.o: ..\..\bsp\stm32f4\os\uCOS-III\V3.04.05\lib_cfg.h
+.\objects\cpu_c.o: ..\..\bsp\stm32f4\os\uCOS-III\V3.04.05\lib_str.h
+.\objects\cpu_c.o: ..\..\bsp\stm32f4\os\uCOS-III\V3.04.05\lib_ascii.h
